@@ -1,3 +1,3 @@
 # hello-universe
-hi multiverse!
-i like maths and landscape and i am a fan of Ma Long !
+hi multiverse !
+i like maths & landscape and i am a big fan of Ma Long !
